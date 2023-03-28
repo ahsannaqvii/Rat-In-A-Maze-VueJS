@@ -23,8 +23,11 @@ npm run serve
 
 
 5. Start the back-end application
+
 cd src/
+
 tsc Maze.js
+
 node Maze.js
 
 
