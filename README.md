@@ -43,5 +43,6 @@ node Maze.js
 
 ## User Interface
 
+![UI](https://user-images.githubusercontent.com/29493186/228321843-7838df0c-3e88-48b1-bf6c-f8fae2486874.png)
 
 
