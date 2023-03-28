@@ -1,8 +1,5 @@
 # Rat in a Maze | VueJS | Strategy Pattern | Typescript
 
-
-```
-
 ## Overview
 A rat in a maze is a classical backtracking problem.A Maze is given as N*N binary matrix of blocks.In the maze matrix, 'B' means the block is a dead end and 'O' means the block can be used in the path from source to destination.
 The rat can move in all four directions i-e top,down,left and right.
